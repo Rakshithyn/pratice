@@ -27,7 +27,7 @@ const data = {
 
 makeCommit(100);
 
-//const DATE = moment().subtract(1, 'd').format();
+const DATE = moment().subtract(1, 'd').format();
 //const DATE = moment().date();
 // const DATE = moment().format();
 // const data = {
@@ -42,3 +42,4 @@ makeCommit(100);
 //  simplegit().add([FILE_PATH]).commit (DATE, {'--date': DATE  }).push(); 
 
  makeCommit(100);
+ 1
