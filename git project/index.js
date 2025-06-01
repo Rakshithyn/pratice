@@ -42,5 +42,5 @@ const DATE = moment().subtract(1, 'd').format();
 //  simplegit().add([FILE_PATH]).commit (DATE, {'--date': DATE  }).push(); 
 
  makeCommit(100);
- 111
+ 111111111
  2
