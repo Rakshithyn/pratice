@@ -43,4 +43,4 @@ const DATE = moment().subtract(1, 'd').format();
 
  makeCommit(100);
  111111111111111
- 2
+ 22222
